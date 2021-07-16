@@ -6,7 +6,7 @@
     <h3>Linguagens preferidas (estatíscas dirão HTML pois é a maneira que apresento os resultados aqui):</h3>
     <img align="center" alt="Leo-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
     <img align="center" alt="Leo-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
-    <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/CS-plain.svg">
+    <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/CS-original.svg">
   </div>
   <br>
   <div>
