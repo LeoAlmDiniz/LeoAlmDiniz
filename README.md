@@ -3,7 +3,7 @@
 <div>
   <!-- <img src="https://github.com/Alexandrehideki13/Alexandrehideki13/blob/main/octocat.png" alt="Meu OctoCat" align="right" height="415"  width: "415px"/> -->
   <div style="display: inline_block">
-    <h3>Linguagens preferidas (estatíscas dirão HTML pois é a maneira que apresento os resultados aqui):</h3>
+    <h3>Preferred languages:</h3>
     <img align="center" alt="Leo-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
     <img align="center" alt="Leo-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
     <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
