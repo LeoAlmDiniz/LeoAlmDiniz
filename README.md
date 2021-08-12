@@ -8,6 +8,10 @@
     <img align="center" alt="Leo-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
     <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   </div>
+  <div style="display: inline_block">
+    <h3>Currently learning MVC development, powered by:</h3>
+    <img align="center" alt="Leo-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  </div>
   <br>
   <div>
     <div style:"display: flex; flex-direction: column">
